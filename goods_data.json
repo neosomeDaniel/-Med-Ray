@@ -4,9 +4,9 @@
 
   },
   "goods": {
-    "Липовый мед": {"harvest": 2024, "container": "3l","price": "100р", "volume":100, "photo": "photo/bee.jpg" },
-    "Цветочный мед": {"harvest": 2023, "container": "0.5l","price": "200р", "volume":1003 , "photo": "photo/мед.jpg"},
-    "Сщтовый мед": {"harvest": 2022, "container": "0.4l","price": "300р", "volume":1002 , "photo": "photo/bee.jpg"},
-    "Настока восковой моли": {"harvest": 2021, "container": "3l","price": "500р", "volume":1001 , "photo": "photo/bee.jpg"}
+    "Липовый мед": {"harvest": 2024, "container": "3l","price": "300р", "volume":0,5л , "photo": "photo/bee.jpg" },
+    "Цветочный мед": {"harvest": 2023, "container": "0.5l","price": "300р", "volume":0,5л , "photo": "photo/мед.jpg"},
+    "Сoтовый мед": {"harvest": 2022, "container": "0.4l","price": "300р", "volume":0,5л , "photo": "photo/bee.jpg"},
+    "Настока восковой моли": {"harvest": 2021, "container": "3l","price": 1750р, "volume":0,5л , "photo": "photo/bee.jpg"}
   }
 }
