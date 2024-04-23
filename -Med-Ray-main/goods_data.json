@@ -1,0 +1,12 @@
+{
+  "review": {
+
+
+  },
+  "goods": {
+    "Липовый мед": {"harvest": 2024, "container": "3l","price": "300р", "volume": "0,5л" , "photo": "photo/bee.jpg" },
+    "Цветочный мед": {"harvest": 2023, "container": "0.5l","price": "300р", "volume": "0,5л" , "photo": "photo/мед.jpg"},
+    "Сoтовый мед": {"harvest": 2022, "container": "0.4l","price": "300р", "volume": "0,5л" , "photo": "photo/bee.jpg"},
+    "Настока восковой моли": {"harvest": 2021, "container": "3l","price": "1750р", "volume": "0,5л" , "photo": "photo/bee.jpg"}
+  }
+}
